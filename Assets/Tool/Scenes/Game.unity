@@ -1419,7 +1419,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.045499753}
   m_AnchorMax: {x: 1, y: 0.29316685}
-  m_AnchoredPosition: {x: 37.400024, y: -46.7}
+  m_AnchoredPosition: {x: 37.400024, y: -46.700195}
   m_SizeDelta: {x: 0, y: 6.200012}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &74322370
@@ -16601,6 +16601,16 @@ MonoBehaviour:
     Image: {fileID: 21300000, guid: d1387fcdc7484db488f65da84aaa9aa5, type: 3}
   - QuesWord: dog
     Image: {fileID: 21300000, guid: 5d518c67e7a5aad4fbd9dcfef27a35d1, type: 3}
+  - QuesWord: buffalo
+    Image: {fileID: 21300000, guid: f98fedbbc37a3f94c8ca635c0f5f245c, type: 3}
+  - QuesWord: giraffe
+    Image: {fileID: 21300000, guid: b4481b63c7c0423429e745e10f9784b7, type: 3}
+  - QuesWord: hippo
+    Image: {fileID: 21300000, guid: a2995cdc0dc21f1418e3a8213891ae97, type: 3}
+  - QuesWord: camel
+    Image: {fileID: 21300000, guid: 39cf927cd2aab0e40b08223f6bd929a4, type: 3}
+  - QuesWord: pig
+    Image: {fileID: 21300000, guid: e5d9ba7a60763694a9ca268e037ff811, type: 3}
   level: {fileID: 1669329781}
   panel:
   - {fileID: 2096641462}
@@ -25526,7 +25536,6 @@ MonoBehaviour:
   - {fileID: 3952707624849549907, guid: 141f32e673a83b840880dfc9a98841de, type: 3}
   - {fileID: 4036262783531638996, guid: 619ea38cb88cc5f4bae82f5e5acd3da6, type: 3}
   - {fileID: 7561201677275406647, guid: e9d4acee25011314ba1758eaeb033ca5, type: 3}
-  - {fileID: 4366143383208344426, guid: a26b8b5f23e9cf24993255c582cb6e31, type: 3}
   _openingPopups: {fileID: 8068837163235971513}
   _closingPopups: {fileID: 8068837164109014433}
   _overlay: {fileID: 8910155618690709388}
