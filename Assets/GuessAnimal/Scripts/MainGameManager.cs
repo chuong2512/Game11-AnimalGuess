@@ -144,7 +144,7 @@ public class MainGameManager : MonoBehaviour
             word += charObject.slotText.text;
         }
 
-        if (word == words[CurrentLevel].QuesWord)
+        if (word.ToLower().Equals( words[CurrentLevel].QuesWord.ToLower()))
         {
             panel[0].gameObject.SetActive(true);
             dialogs[0].gameObject.SetActive(true);
